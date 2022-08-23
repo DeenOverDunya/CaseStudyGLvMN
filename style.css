@@ -1,0 +1,146 @@
+.heading
+{
+  font-size: 30px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+
+}
+.heading_div
+{
+    font-family: 'DynaPuff', cursive;
+  float:none;
+  background: white ;
+  padding: 10px; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+ 
+}
+.heading_div2
+{
+  font-size: 18px ;
+  font-family: 'DynaPuff', cursive;
+}
+.result_para_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+  font-family: 'DynaPuff', cursive;
+  white-space: pre-line;
+  background-color: black;
+  color: white;
+  margin-left: 300px;
+  margin-right: 300px;
+  height: 400px;
+
+}
+
+body
+{
+    font-family: 'DynaPuff', cursive;
+}
+
+#h3
+{
+background-color: black;
+color: white;
+font-family: 'DynaPuff', cursive;
+}
+
+
+
+.copy_right_footer
+{
+position: fixed;
+color: white;
+bottom: 0;
+width: 100%;
+background-color: black;
+line-height: 3;
+text-align: center;
+font-family: 'DynaPuff', cursive;
+}
+
+.img-responsive
+{
+width: 380px;
+height: 350px;
+}
+
+
+
+.col-sm-4
+{
+    background-color:black;
+    color:white;
+    font-size:x-large;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.col-sm-12
+{
+    background-color:white;
+    color:black;
+    font-size:x-large;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: purple;
+}
+.first,.second{
+    background-color:white;
+    border-radius:20px;
+    line-height: 2;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: white;
+}
+
+h4{
+    color: white;
+    font-weight: bold;
+}
+
+#h5{
+color: black;
+}
+
+#conclude
+{
+font-size: large;
+}
